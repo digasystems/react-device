@@ -12,6 +12,10 @@
       "require": "./dist/react-device.umd.cjs"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digasystems/react-device.git"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
